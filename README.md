@@ -1,3 +1,3 @@
-My Very First bash scripting
+# My Very First bash scripting
 
-You can use and modify
+You can use and modify:)
